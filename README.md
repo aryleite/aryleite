@@ -12,4 +12,6 @@
   
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aryleite)
   
-- ⚡ Fun fact: My favorite football team is Club de Regatas Vasco da Gama!⚫⚪❤️ — “O Gigante da Colina! 
+- ⚡ Fun fact: My favorite football team is Club de Regatas Vasco da Gama!⚫⚪❤️ — “O Gigante da Colina!
+
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?aryleite=anuraghazra&theme=dark&show_icons=true)
