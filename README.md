@@ -6,18 +6,10 @@
 ---
 
 - 🔭 I’m currently working on automating administrative routines at the IFB and learning to build simple data analysis scripts.
+  
 - 🌱 I’m currently learning **Python**, **Git/GitHub**, and the basics of **data analysis (Pandas, NumPy, Matplotlib)**.
 - 🤔 I’m looking for help with structuring my first real-world Python applications and good coding practices.
+  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aryleite)
-- ⚡ Fun fact: I'm a proud supporter of Vasco da Gama ⚫⚪❤️ — “O Gigante da Colina!”
-
----
-
-### 🧠 Currently Exploring
-- Python 🐍
-
-### 🛠️ Tools & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
+  
+- ⚡ Fun fact: My favorite football team is Club de Regatas Vasco da Gama!⚫⚪❤️ — “O Gigante da Colina! 
