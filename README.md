@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**aryleite/aryleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Ary Leite!
 
-Here are some ideas to get you started:
+💻 I'm a civil servant at Instituto Federal de Brasília (IFB), working as an Administrative Assistant, and currently exploring the world of programming and process automation using **Python**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working on automating administrative routines at the IFB and learning to build simple data analysis scripts.
+- 🌱 I’m currently learning **Python**, **Git/GitHub**, and the basics of **data analysis (Pandas, NumPy, Matplotlib)**.
+- 🤔 I’m looking for help with structuring my first real-world Python applications and good coding practices.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aryleite)
+- ⚡ Fun fact: I'm a proud supporter of Vasco da Gama ⚫⚪❤️ — “O Gigante da Colina!”
+
+---
+
+### 🧠 Currently Exploring
+- Python 🐍
+
+### 🛠️ Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
