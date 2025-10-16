@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Ary Leite!
+# Hi there, I'm **Ary Leite**!
 
 💻 I'm a civil servant at Instituto Federal de Brasília (IFB), working as an Administrative Assistant, and currently exploring the world of programming and process automation using **Python**.  
 
